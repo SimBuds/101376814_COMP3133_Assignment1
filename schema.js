@@ -6,6 +6,7 @@ const typeDefs = gql`
     username: String!
     email: String!
     password: String!
+    token: String!
   }
 
   type Employee {
