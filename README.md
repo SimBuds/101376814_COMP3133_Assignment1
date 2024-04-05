@@ -1,4 +1,4 @@
-# COMP3133 Full Stack Development 2 Assignment 1
+# COMP3133 Full Stack Development 2 Assignment 2 - Backend
 
 ## Student Name: Casey Hsu - 101376814
 
