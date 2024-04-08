@@ -8,7 +8,6 @@ const Employee = require('../models/employee');
 
 module.exports = {
   Query: {
-
     // Login
     async login(_, { username, password }) {
       try {

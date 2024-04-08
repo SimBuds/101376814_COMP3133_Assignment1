@@ -2,8 +2,8 @@ require('dotenv').config();
 const express = require('express');
 const { ApolloServer } = require('apollo-server-express');
 const mongoose = require('mongoose');
-const resolvers = require('./resolvers');
-const typeDefs = require('./schema');
+const resolvers = require('./services/resolvers');
+const typeDefs = require('./services/schema');
 
 // Create an instance of ApolloServer
 const server = new ApolloServer({
